@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>petermeissner</title>
+    <description>petermeissner: personal blog, stats, tech, and things between and beyond</description>
+    <link></link>
+    <atom:link href="http://petermeissner.de/feed_r.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
