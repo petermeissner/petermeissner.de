@@ -2,7 +2,7 @@ title: "petermeissner"
 author: "Peter Meissner"
 description: "petermeissner: personal blog, stats, tech, and things between and beyond"
 more: "... read more »"
-url: "http://petermeissner.de"
+url: ""
 baseurl: "http://petermeissner.de"
 paginate: 10
 permalink: pretty
@@ -17,8 +17,8 @@ navigation:
   - about.md
   - archive.html
 
-comments:
-#  disqus: "disqus-contrast"
+comments: 
+  disqus: "petermeissner-de"
 #  isso: "comments.mysite.org"
 
 links: # see http://fontawesome.io/icons/#brand for all possible icons
