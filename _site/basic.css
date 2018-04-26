@@ -21,8 +21,12 @@ a, b, strong, th {
   font-weight: 400;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h3, h4, h5, h6 {
   font-weight: 300;
+}
+
+h2 {
+  font-weight: 400;
 }
 
 main {
@@ -69,7 +73,7 @@ figure {
 
 code {
   background-color: rgba(148, 148, 148, 0.12);
-  color: gray;
+  color: gainsboro;
   border-radius: 2px;
   font-size: 0.8em;
   margin: 0 0.2em;
@@ -78,7 +82,7 @@ code {
 
 pre {
   background-color: rgba(34, 34, 34, 0.8);
-  color: white;
+  color: gainsboro;
   border-radius: 2px;
   font-size: 0.7em;
   padding: 0.8em 1.2em;
@@ -87,7 +91,7 @@ pre {
 
 pre code {
   background: initial;
-  color: initial;
+  color: gainsboro;
   font-size: initial;
   margin: initial;
   padding: initial;

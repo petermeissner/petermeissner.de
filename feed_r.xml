@@ -8,7 +8,7 @@ layout:
     <description>{{ site.description | xml_escape }}</description>
     <link>{{ base_path }}</link>
     <atom:link href="{{ site.url }}/{{ page.path }}" rel="self" type="application/rss+xml" />
-    {% for post in site.tags.r limit:10 %}
+    {% for post in site.tags.rstats limit:50 %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
         <description>{{ post.content | xml_escape }}</description>

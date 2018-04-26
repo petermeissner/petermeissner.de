@@ -3,7 +3,7 @@ author: "Peter Meissner"
 description: "petermeissner: personal blog, stats, tech, and things between and beyond"
 more: "... read more »"
 url: ""
-baseurl: "http://petermeissner.de"
+baseurl: "https://petermeissner.de"
 paginate: 10
 permalink: pretty
 excerpt_separator: "\n\n\n" # two blank lines
@@ -15,6 +15,7 @@ style:
 navigation:
   - index.html
   - about.md
+  - links.md
   - archive.html
 
 comments: 
