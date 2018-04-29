@@ -7,7 +7,7 @@ tags:
 ---
 
 
-Finally I finished my search for a new framework to handle my personal webpage. 
+Finally, I finished my search for a new framework to handle my personal webpage. 
 You know something that would not involve too much semi-automatic pasting content
 into placeholders while all the time having it look like some second hand page 
 from the late two-thousands. 

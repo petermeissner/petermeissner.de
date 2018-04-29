@@ -9,4 +9,4 @@ title: "About"
 > data over mind <br>
 
 
-Just a blog - an outlet for logs and tech and [R](https://cran.r-project.org/) and such. 
+A blog - an outlet for logs and tech and [R](https://cran.r-project.org/) and such. 
