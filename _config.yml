@@ -13,11 +13,10 @@ style:
   dark: false
 
 navigation:
-  - index.html
   - about.md
-  - links.md
+  - index.html
   - archive.html
-  - blogroll.md
+  - blogroll.html
 
 comments: 
   disqus: "petermeissner-de"

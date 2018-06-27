@@ -1,6 +1,9 @@
 #!/bin/bash
 
-# build pag
+# got to directory
+cd /home/peter/homepage
+
+# build page
 echo -e "$(tput setaf 2)\n. building\n$(tput setaf 7)"
 jekyll build
 
