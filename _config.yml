@@ -14,9 +14,8 @@ style:
 
 navigation:
   - about.md
-  - index.html
-  - archive.html
-  - blogroll.html
+  - blog.html
+  - seealso.html
 
 comments: 
   disqus: "petermeissner-de"
