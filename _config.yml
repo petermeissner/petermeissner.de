@@ -16,6 +16,7 @@ navigation:
   - about.md
   - blog.html
   - seealso.html
+  - privacy.html
 
 comments: 
   disqus: "petermeissner-de"

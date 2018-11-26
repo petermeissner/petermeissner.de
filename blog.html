@@ -16,7 +16,7 @@ layout: blank
       {%- endif -%}
       <li>
         <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> 
-        [ {{ post.tags }} ]
+        [ {{ post.tags | join: ', ' }} ]
         </li>
     {%- endfor -%}
   </article>
