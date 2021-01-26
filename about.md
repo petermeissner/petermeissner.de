@@ -21,3 +21,9 @@ Hi, I am Peter ... data scientist, programmer, Excel sheet pusher, data tinkerer
   * the tooling out there was not that great ... 
   * I had to build my own package - of cause.
 - Using R for Web Scraping at Scale @ uRos2020: [Youtube link](https://www.youtube.com/watch?v=THDoBJCM9ZE&t=452s)
+
+
+# Me on Audio
+
+- Expertengeflüster @virtual7: *Folge 2 - Rrrrrrr - Richtig gut!* [Deezer](https://deezer.page.link/hFhwpoD5hFwGSqzR8), [PocketCast](https://pca.st/b5xctmde)
+- Expertengeflüster @virtual7: *Folge 5 - Was ist eigentlich Statistik?* [Deezer](https://deezer.page.link/qXhsHjf5nvwzp4TS7), [PocketCast](https://pca.st/h192j4d6)
