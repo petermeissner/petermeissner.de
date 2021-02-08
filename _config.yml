@@ -13,7 +13,7 @@ style:
   dark: false
 
 navigation:
-  - about.md
+  - index.md
   - blog.html
   - seealso.html
   - privacy.html
