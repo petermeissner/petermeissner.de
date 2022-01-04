@@ -34,14 +34,14 @@ Hi, I am Peter ... data scientist, programmer, Excel sheet pusher, data tinkerer
 
 # Me on CRAN
 
-- https://www.r-pkg.org/maint/retep.meissner@gmail.com
+- [Link](https://www.r-pkg.org/maint/retep.meissner@gmail.com)
 
 
 # Me on Github
 
-- https://github.com/petermeissner
+- [Link](https://github.com/petermeissner)
 
 
 # Me on Twitter
 
-- https://twitter.com/peterlovesdata
+- [Link](https://twitter.com/peterlovesdata)
