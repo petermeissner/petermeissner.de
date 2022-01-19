@@ -16,6 +16,7 @@ Hi, I am Peter ... data scientist, programmer, Excel sheet pusher, data tinkerer
 # Me on Video
 
 - Going Big And Fast - {Kafkaesque} for Kafka Access @UseR!2021: [YouTube Link](https://www.youtube.com/watch?v=5e7W4ktjASQ&ab_channel=RConsortium)
+- Me moderating: "A trading research system in R (speaker: Daniel Brandt, [HamburgRUserMeetup](https://www.meetup.com/de-DE/Hamburg-R-User-Group/))" [YouTubeLink](https://www.youtube.com/watch?v=_zu2GfDZqYo&ab_channel=WhyR%3FFoundation)
 - Using R for Web Scraping at Scale @ uRos2020: [Youtube link](https://www.youtube.com/watch?v=THDoBJCM9ZE&t=452s)
 - Introducing {crossword} at RUsersHamburg meetup: [Youtube link](https://www.youtube.com/watch?v=56qrwa4bzK8)
   * since my little sister got married and 
